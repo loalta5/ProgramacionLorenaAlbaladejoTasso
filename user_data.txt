@@ -1,0 +1,4 @@
+Nombre: Juan Martínez
+Telefono: +34 625478104
+TipoSangre: A+
+ContactoEmergencia: María Ramírez
